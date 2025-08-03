@@ -175,3 +175,31 @@ background-position: top left, bottom right;
 .resume-download-container{
     margin-top: 50px;
 }
+.footer-column{
+    width: 50%;
+
+}
+.contact input[type="text"], .contact input[type="email"],textarea{
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: white;
+    border: 0;
+
+}
+
+
+
+
+.social-links a{
+    margin-right: 25px;
+}
+.footer{
+    display: flex;
+    background-color: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
+    gap: 100px;
+}
